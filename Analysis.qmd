@@ -1,0 +1,42 @@
+---
+title: "An Analysis of ____"
+author:
+- Tyler Huynh
+- Julian Ting
+- Larry Yu
+date: 2026-03-08
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 2
+    number-sections: true
+    embed-resources: true
+pagetitle: "STAT107 Final Project - {{< meta title >}}"
+error: true
+editor: visual
+---
+
+## Introduction
+
+-   Tell us what you are investigating, why it matters, and who may be interested/invested in your topic.
+
+## Dataset Description
+
+-   What data are you using, and why are they appropriate for your problem/question?
+
+## Preprocessing
+
+-   Briefly describe any manipulations of the data required to conduct youranalysis. Show us tables or figures here only as necessary.
+
+## Methods
+
+-   Briefly describe the statistical/mathematical/methodological tools you are using to address your question/problem.
+
+## Analysis
+
+-   Walk us through how the group approached the question/problem systematically.
+
+## Conclusion
+
+-   What is the outcome of your analysis? What did we learn? How do we interpret statistical results, if any? Are there any limitations to your analysis? What is the take home message?
